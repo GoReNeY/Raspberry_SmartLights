@@ -153,3 +153,8 @@ cython_debug/
 
 # Database
 *.db
+
+/.vscode
+test.py
+/pico/.vscode
+.micropico
